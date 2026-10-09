@@ -38,9 +38,14 @@ The project explores revenue trends, profitability, market capitalization, compa
 - ESG score and profit margin have a weak positive correlation in this dataset.
 - Carbon emissions vary significantly across companies.
 
+## Dashboard Preview
+
+![Financial Performance & ESG Dashboard](Screenshot%202026-10-09%20212159.png)
+
 ## Project Files
 - `financial_analysis 1.sql` — SQL queries for analysis
 - `financial data 1.pbix` — Interactive Power BI dashboard
+  
 
 ## Author
 Praveen Kumar Yadav
