@@ -342,7 +342,11 @@ GROUP BY company_name, industry
 ORDER BY avg_carbon_emissions DESC
 LIMIT 5;
 
-
+-- 6. Total Market Capitalization for 2025
+SELECT
+    SUM(market_cap) AS total_market_cap_2025
+FROM company_financials
+WHERE year = 2025;
 
 
 
